@@ -1,0 +1,8 @@
+data/*
+results
+.Rproj.user
+.cache/
+.Rprofile
+*.fai
+*.gzi
+*.gz
